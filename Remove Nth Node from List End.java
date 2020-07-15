@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public ListNode removeNthFromEnd(ListNode A, int B) {
         if(A==null)
