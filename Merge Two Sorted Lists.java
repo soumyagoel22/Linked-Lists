@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public ListNode mergeTwoLists(ListNode A, ListNode B) {
        if(B==null)
