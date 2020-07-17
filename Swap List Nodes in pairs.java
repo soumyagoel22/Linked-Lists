@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public ListNode swapPairs(ListNode A) {
       ListNode a = A;
