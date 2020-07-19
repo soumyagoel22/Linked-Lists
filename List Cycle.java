@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
    public ListNode detectCycle(ListNode A) {
         ListNode a = A;
