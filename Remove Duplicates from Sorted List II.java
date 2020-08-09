@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public ListNode deleteDuplicates(ListNode A) {
         ListNode head = A;
